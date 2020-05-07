@@ -5,7 +5,7 @@ A cloud native builder application for collaborative workflow around SSOT betwee
 * Multirole Interfaces
 Establish Single Source of Truth (SSOT), where developers and non-developers work together on master schemas.
 
-*Visualize Your Models
+* Visualize Your Models
 Toggle between simple list views, interactive graph, form editor, SDL or JSON, while working on your data models.
 
 * Test Your Models & API's
