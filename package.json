@@ -1,0 +1,14 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^5.0.0"
+  },
+  "dependencies": {
+    "app2": "^0.0.6",
+    "create-react-app": "^5.0.1"
+  }
+}
